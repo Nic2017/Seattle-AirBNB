@@ -11,7 +11,7 @@ For this project, I use the Seattle AirBNB data to discuss:
 Both of these can let us better understand the data given and have an overview of the status of Seattle AirBNB.
 
 # File Description
-There are 1 jupyter notebook file for the main analysis and 2 csv files as the input data(listings of BNB and reviews, separately).
+There are 1 jupyter notebook file for the main analysis and 2 csv files as the input data(listings of BNB and reviews(zipped due to large size), separately).
 
 # Results
 For discussion 1, I have published a blog on <a href="https://medium.com/@harrygky/what-factors-may-affect-airbnbs-price-4bc4bedf5563">Medium</a>.
